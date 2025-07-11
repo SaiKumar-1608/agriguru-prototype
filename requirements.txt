@@ -1,0 +1,46 @@
+# Core Python
+numpy
+pandas
+
+# Machine Learning & Federated Learning
+torch
+flwr
+scikit-learn
+xgboost
+
+# LLM & NLP
+transformers
+peft
+bitsandbytes
+accelerate
+# sentencepiece==0.1.99  # for some models' tokenizers
+
+# Whisper (voice transcription)
+openai-whisper
+ffmpeg-python
+
+# TTS
+pyttsx3
+
+# Streamlit UI
+streamlit
+
+# FastAPI Backend
+fastapi
+uvicorn
+
+# HTTP
+requests
+
+# MQTT for sensor simulation
+paho-mqtt
+
+# Explainability
+shap
+matplotlib
+
+# SQLite (included in Python)
+# No need to install `sqlite3` separately
+
+# Optional: For running on GPUs safely
+nvidia-ml-py3

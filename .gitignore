@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+ENV/
+*.egg-info/
+
+# SQLite DB and logs
+*.db
+
+# Streamlit and VSCode cache
+.streamlit/
+.vscode/
+
+# Environment and secrets
+.env
+openai_key.txt
